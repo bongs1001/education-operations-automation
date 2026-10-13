@@ -1,0 +1,2 @@
+# Runtime code uses only the Python standard library.
+pyinstaller==6.22.2
